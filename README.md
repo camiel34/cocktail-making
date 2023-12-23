@@ -1,2 +1,2 @@
 # cocktail-making
-A website that gives you recipes for different cocktails.
+A website that gives recipes for different cocktails.
